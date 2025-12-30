@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔭 I’m currently working on building a Real-Time Conversational  Avatar<br>👯 I’m looking to collaborate on a problem-solving business idea in the AI <br>🤝 I’m looking for help with Agentic Frameworks<br>🌱 I’m currently learning A2A, A2UI and Automation Frameworks<br>💬 Ask me about NLP, DL<br>
 
 
@@ -15,4 +15,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omairakapasha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
