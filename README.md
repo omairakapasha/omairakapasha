@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Omair 👋
-**AI Engineer** — building intelligent systems in Python and JavaScript.
+**Bachelors in AI Engineer** building intelligent systems in Python and JavaScript.
 
-👯 I’m looking to collaborate on a problem-solving business idea in the AI <br>🤝 I’m looking for help with Agentic Frameworks<br>🌱 I’m currently learning A2A, A2UI and Automation Frameworks.
+I’m looking to collaborate on a problem-solving business idea in the AI <br>🤝 I’m looking for help with Agentic Frameworks<br>🌱 I’m currently learning A2A, A2UI and Automation Frameworks.
 
 
 ## 🌐 Socials:
