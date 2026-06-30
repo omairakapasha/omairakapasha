@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Omair 👋
-**Bachelors in AI Engineer** building intelligent systems in Python and JavaScript.
+**AI Engineer** building intelligent systems.
 
-I’m looking to collaborate on a problem-solving business idea in the AI <br>🤝 I’m looking for help with Agentic Frameworks<br>🌱 I’m currently learning A2A, A2UI and Automation Frameworks.
+I’m looking to collaborate on a problem solving business idea in the AI <br>I’m looking for help with Agentic Frameworks<br>I’m currently learning A2A, A2UI and Automation Frameworks.
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@ I’m looking to collaborate on a problem-solving business idea in the AI <br>�
 ## 🛠️ Tech Stack
 **AI/ML:** Python · Scikit-learn · OpenCV · FAISS · Gemini AI · GPT-4
 **Web/Desktop:** React · Electron · Supabase · IndexedDB
-**Currently Learning:** LangGraph · YOLOv8 · RL (PPO) · LLM pipelines
+**Currently Learning:** LangGraph · YOLOv8 · LLM pipelines
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omairakapasha&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
